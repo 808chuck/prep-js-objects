@@ -30,6 +30,19 @@ plainBox.contents = [];
             - add a key named `passengers` and set it to be an empty array.
  */
 
+ var stockCar = {
+
+ model: "Ford",
+
+ year: 2015,
+
+ automaticTransmission:  true,
+
+ driver: "null",
+
+ passengers: [],
+
+};
 
 /*
     Add new property inside a function
